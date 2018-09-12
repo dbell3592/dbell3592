@@ -14,15 +14,15 @@ p {
 }
 
 a {
-  color: #fed136;
+  color: #36fe83;
 }
 
 a:hover {
-  color: #fec503;
+  color: #03fe89;
 }
 
 .text-primary {
-  color: #fed136 !important;
+  color: #36fe83 !important;
 }
 
 h1,
@@ -71,13 +71,13 @@ section h3.section-subheading {
 }
 
 .btn-primary {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #36fe83;
+  border-color: #36fe83;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #fec810 !important;
-  border-color: #fec810 !important;
+  background-color: #36fe83 !important;
+  border-color: #36fe83 !important;
   color: white;
 }
 
@@ -142,7 +142,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #fed136;
+  color: #36fe83;
 }
 
 @media (min-width: 992px) {
@@ -452,7 +452,7 @@ header.masthead .intro-text .intro-heading {
   color: white;
   border: 7px solid #e9ecef;
   border-radius: 100%;
-  background-color: #fed136;
+  background-color: #36fe83;
 }
 
 .timeline > li .timeline-image h4 {
@@ -623,7 +623,7 @@ section#contact .form-group textarea.form-control {
 }
 
 section#contact .form-control:focus {
-  border-color: #fed136;
+  border-color: #36fe83;
   -webkit-box-shadow: none;
   box-shadow: none;
 }
@@ -691,5 +691,5 @@ ul.social-buttons li a {
 }
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-  background-color: #fed136;
+  background-color: #36fe83;
 }
